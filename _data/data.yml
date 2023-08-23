@@ -1,0 +1,30 @@
+weeks:
+  - startdate: 08/06/2023
+    posts:
+      - date: 08/10/2023
+        items: 
+          - title: "🌱 Chapps Chia #ArtThursdays Chia From ¿ Chia"
+            icons: [globe, spaces]
+            creator: [Edward, https://twitter.com/anewformofmusic]
+            links:
+              - [Play, https://twitter.com/anewformofmusic/status/1689804150710910976?s=20]
+          - title: "Evergreen AMA, Lite Farmer, compression, NFTs, killer dApps"
+            icons: [globe, spaces]
+            creator: ["@Evergreenminer", https://twitter.com/Evergreenminer]
+            links:
+              - [Play, https://twitter.com/Evergreenminer/status/1689736080432709637?s=20]
+          - title: "@foxypool announces new pre-release 2.0.0-rc4 with og pooling 1.4.0!"
+            icons: [globe, microphone]
+            creator: ["@foxypool", https://twitter.com/foxypool]
+            links: 
+              - [2.0.0-rc4, https://github.com/Chia-Network/chia-blockchain/releases/tag/2.0.0-rc4]
+      - date: 08/11/2023
+        items: 
+          - title: "Digital Spaceport LIVE Chia 2.0 - GPU Plotting, Bladebit, Chia Farming LIVE with Storage JM"
+            icons: [globe, youtube]
+            creator: ["Digital Spaceport", https://twitter.com/gospaceport]
+            links:
+              - [Source, https://twitter.com/gospaceport/status/1690080742154346496?s=20]
+              - [Watch, https://www.youtube.com/watch?v=ykfMdzbKUAo]
+              - [DSP Store, https://shop.digitalspaceport.com/?utm_medium=product_shelf&utm_source=youtube&utm_content=YT-AAE-QftT-60eFcUEB0enfDvQaiv4QLn6reepPZQpLv-hDUCxUMjEDq56nZPAHcRdgVVClyTfQnuFbwXniBSAnweP1D7gRCL5452GQY82M3Py5PgX-7PMuf2tvc4xHscJGT1x9Ve6nXYF_r5E5KxFOH_MyZcoODcYMWbrKgYLQnu0EuZi7OFPGM9b]
+      

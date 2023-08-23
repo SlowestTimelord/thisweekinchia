@@ -16,22 +16,3 @@
 </div>
 
 <br><br><span class="footer">Community Site • No affiliation with Chia Network, Inc.</span><br><br>
-
-</div> <!-- content -->
-
-<script>
-	function toggleMode() {
-		temp=getComputedStyle(document.documentElement).getPropertyValue('--themebackground');
-		document.documentElement.style.setProperty('--themebackground', getComputedStyle(document.documentElement).getPropertyValue('--themeforeground'));
-		document.documentElement.style.setProperty('--themeforeground', temp);
-		toggleBtn = document.getElementById('lightdark');
-
-		var mode = "";
-		if(toggleBtn.value === "Light") {
-			mode = "Dark";
-		} else {
-			mode = "Light";
-		}
-		toggleBtn.value = mode;
-	}
-</script>

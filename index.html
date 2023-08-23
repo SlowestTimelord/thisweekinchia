@@ -47,6 +47,38 @@ layout: default
 	
 </div>
 
+{% for week in site.data.data.weeks %}
+	{% assign start_date = week.startdate | date: '%m/%d/%Y' %}
+	{% assign end_date = start_date | date: '%s' | plus: 604800 %}
+	{% assign long_start_date = start_date | date: '%B %d, %Y' %}
+	{% assign long_end_date = end_date | date: '%B %d, %Y' %}
+
+  <h3>Week of {{ long_start_date }} - {{ long_end_date }}</h3>
+  <ul>
+    {% for post in week.posts %}
+      <li class="weekday">{{ post.date | date: '%A' }} • {{ post.date }}</li>
+      {% for item in post.items %}
+        <li class="post">
+          {% for icon in item.icons %}
+            <img width="15px" src="https://thisweekinchia.com/assets/icons/{{ icon }}.png">
+          {% endfor %}
+          {{ item.title }}
+          {% if item.creator[1] %}
+            - Hosted by <a href="{{ item.creator[1] }}" target="_blank">{{ item.creator[0] }}</a>
+          {% endif %}
+          {% for link in item.links %}
+            <a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a>
+          {% endfor %}
+        </li>
+      {% endfor %}
+      <hr class="daydivide">
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+
+done
+
 <h3>Week of August 13, 2023 - August 19, 2023 <div class="week"><span class="tooltip"><a href="https://www.youtube.com/@DigitalSpaceport" target="_blank"></a><fieldset><a href="https://www.youtube.com/@DigitalSpaceport" target="_blank"><img width="300px" src="assets/ads/20230813.png" alt="Digital Spaceport" title="Digital Spaceport"></a><legend>Advertisement</legend></fieldset></span></div></h3>
 <ul>
 	<li class="weekday">SATURDAY • 08/19/2023</li>
