@@ -1,0 +1,37 @@
+<hr>
+
+<a href="https://thisweekinchia.com">Home</a> • <a href="https://xchdev.com/#!contact.md" target="_blank">Contact</a> • <a href="ads.html">Ads</a>
+
+<div class="attributions">
+	Attributions:<br>
+	<a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a><br>
+	<a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by srip - Flaticon</a><br>
+	<a href="https://www.flaticon.com/free-icons/bullhorn" title="bullhorn icons">Bullhorn icons created by Freepik - Flaticon</a><br>
+	<a href="https://www.flaticon.com/free-icons/global" title="global icons">Global icons created by Smashicons - Flaticon</a><br>
+	<a href="https://www.flaticon.com/free-icons/calendar" title="calendar icons">Calendar icons created by Vectors Market - Flaticon</a><br>
+	<a href="https://www.flaticon.com/free-icons/play-video" title="play video icons">Play video icons created by Smashicons - Flaticon</a><br>
+	<a href="https://www.flaticon.com/free-icons/gem" title="gem icons">Gem icons created by Freepik - Flaticon</a><br>
+	<a href="https://www.flaticon.com/free-icons/breaking-news" title="breaking news icons">Breaking news icons created by iconixar - Flaticon</a><br>
+	<br><br>
+</div>
+
+<br><br><span class="footer">Community Site • No affiliation with Chia Network, Inc.</span><br><br>
+
+</div> <!-- content -->
+
+<script>
+	function toggleMode() {
+		temp=getComputedStyle(document.documentElement).getPropertyValue('--themebackground');
+		document.documentElement.style.setProperty('--themebackground', getComputedStyle(document.documentElement).getPropertyValue('--themeforeground'));
+		document.documentElement.style.setProperty('--themeforeground', temp);
+		toggleBtn = document.getElementById('lightdark');
+
+		var mode = "";
+		if(toggleBtn.value === "Light") {
+			mode = "Dark";
+		} else {
+			mode = "Light";
+		}
+		toggleBtn.value = mode;
+	}
+</script>
