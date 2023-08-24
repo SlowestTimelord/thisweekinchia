@@ -1,0 +1,230 @@
+weeks:
+  - startdate: 08/20/2023
+    posts:
+      - date: 08/22/2023
+        handle: ['@tjumpx', 'https://twitter.com/tjumpx']
+        icons: [globe, microphone]
+        links:
+        - ['@tjumpx', 'https://twitter.com/tjumpx']
+        - [Source, 'https://twitter.com/tjumpx/status/1694136155854229644?s=20']
+        - [txstreet, 'https://github.com/txstreet/txstreet']
+        title: "annouces \"XCHscan 2.0 will have a nice UI for this. Although if anyone\
+          \ wants the actual TxStreet visualization for Chia, they recently started open\
+          \ sourcing their code...\"\u2022"
+      - date: 08/22/2023
+        handle: ['@acevail_', 'https://twitter.com/acevail_']
+        icons: [globe, microphone]
+        links:
+        - ['@acevail_', 'https://twitter.com/acevail_']
+        - [Source, 'https://twitter.com/acevail_/status/1694057598989828528?s=20']
+        - [xch.events, 'https://xch.events/']
+        title: "announces xch.events, a real time feed of all event happening on the #Chia\
+          \ blockchain! It smartly groups coins together into transactions, based on parent-child\
+          \ and announcements. Future features will be better visualization, offer grouping\
+          \ and een more puzzle parsers. The real time feed will be available for all\
+          \ Chia developers to use!\u2022"
+      - date: 08/21/2023
+        handle: ['@VoskCoin', 'https://twitter.com/VoskCoin']
+        icons: [globe, microphone]
+        links:
+        - ['@VoskCoin', 'https://twitter.com/VoskCoin']
+        - [Source, 'https://twitter.com/VoskCoin/status/1693693646258811011?s=20']
+        - [Watch, 'https://www.youtube.com/watch?v=_3VqHTmoSCw']
+        title: "releases new video \"My Shed for Hard Drive Mining is HERE!\"\u2022"
+      - date: 08/21/2023
+        handle: ['@monkeyzoo', 'https://twitter.com/monkeyzoo']
+        icons: [globe, youtube]
+        links:
+        - ['@monkeyzoo', 'https://twitter.com/monkeyzoo']
+        - [Monkeyzoo YouTube, 'https://www.youtube.com/@monkeyzoo6698/videos']
+        - [Watch, 'https://www.youtube.com/watch?v=GC8R6kzr2aE']
+        - [Watch, 'https://www.youtube.com/watch?v=YXw20kzZ_ME']
+        - [Watch, 'https://www.youtube.com/watch?v=eYHknflVTEA']
+        - [Watch, 'https://www.youtube.com/watch?v=-Ewxy_lr2SA']
+        - [Watch, 'https://www.youtube.com/watch?v=VjYAaeP91d8']
+        - [Watch, 'https://www.youtube.com/watch?v=2Ibzu6RZ3EU&t=313s']
+        title: 'releases several new videos:'
+      - date: 08/20/2023
+        handle: ['@ChiChiverse_NFT', 'https://twitter.com/ChiChiverse_NFT']
+        icons: [globe, microphone]
+        links:
+        - ['@ChiChiverse_NFT', 'https://twitter.com/ChiChiverse_NFT']
+        - [Source, 'https://twitter.com/ChiChiverse_NFT/status/1693427213734203506?s=20']
+        title: "teases a return of ChiChi... Soon\u2122."
+      - date: 08/20/2023
+        handle: ['@bramcohen', 'https://twitter.com/bramcohen']
+        icons: [globe, microphone]
+        links:
+        - ['@bramcohen', 'https://twitter.com/bramcohen']
+        - [Source, 'https://twitter.com/bramcohen/status/1693336516561699290?s=20']
+        - [Bram's Thoughts, 'https://bramcohen.com/']
+        title: "announces he is stepping away from X (formerly Twitter) for a while and\
+          \ will be writing on Substack.\u2022"
+      - date: 08/20/2023
+        handle: ['@SlowestTimelord', 'https://twitter.com/SlowestTimelord']
+        icons: [globe, microphone]
+        links:
+        - ['@SlowestTimelord', 'https://twitter.com/SlowestTimelord']
+        - [Source, 'https://twitter.com/SlowestTimelord/status/1693286972788261305']
+        title: "announced a new stablecoin CAT called \U0001F954 POTATO that is supposedly\
+          \ pegged to $0."
+      - date: 08/20/2023
+        handle: ['@monkeyzoo', 'https://twitter.com/monkeyzoo']
+        icons: [globe, spaces]
+        links:
+        - ['@monkeyzoo', 'https://twitter.com/monkeyzoo']
+        - [Join, 'https://twitter.com/monkeyzoo/status/1693271888875700649?s=20']
+        title: "- Hosted by\"\U0001F331Chia Royalties Guaranteed\U0001F331 Finance & NFT\
+          \ Royalty chat #Chiafixedit\" on Sunday August 20, 2023 at 6:00 PM UTC."
+  - startdate: 08/13/2023
+    posts:
+      - date: 08/19/2023
+        handle: [Digital Spaceport, 'https://twitter.com/gospaceport']
+        icons: [globe, youtube]
+        links:
+        - [Digital Spaceport, 'https://twitter.com/gospaceport']
+        - [Source, 'https://twitter.com/gospaceport/status/1693026375253324036?s=20']
+        - [Watch, 'https://www.youtube.com/watch?v=C0ZMikJ8QgI']
+        - [DSP Store, 'https://shop.digitalspaceport.com/?utm_medium=product_shelf&utm_source=youtube&utm_content=YT-AAE-QftT-60eFcUEB0enfDvQaiv4QLn6reepPZQpLv-hDUCxUMjEDq56nZPAHcRdgVVClyTfQnuFbwXniBSAnweP1D7gRCL5452GQY82M3Py5PgX-7PMuf2tvc4xHscJGT1x9Ve6nXYF_r5E5KxFOH_MyZcoODcYMWbrKgYLQnu0EuZi7OFPGM9b']
+        title: "\"LIVE: Chia GPU Plotting Bladebit 128GB Testing + Chia Client RC6 Testing\"\
+          \u2022\u2022"
+      - date: 08/19/2023
+        handle: ['@monkeyzoo', 'https://twitter.com/monkeyzoo']
+        icons: [globe, youtube]
+        links:
+        - ['@monkeyzoo', 'https://twitter.com/monkeyzoo']
+        - [Monkeyzoo YouTube, 'https://www.youtube.com/@monkeyzoo6698/videos']
+        title: 'releases 3 new videos on YouTube: How to Enable Chia Asset Token CATs,
+          How to buy an NFT on the Chia Blockchain, & How to create a Chia blockchain
+          desktop wallet version 2.'
+      - date: 08/17/2023
+        handle: ['@VoskCoin', 'https://twitter.com/VoskCoin']
+        icons: [globe, youtube]
+        links:
+        - ['@VoskCoin', 'https://twitter.com/VoskCoin']
+        - [Watch, 'https://www.youtube.com/watch?v=iuuWA6271cc']
+        title: releases new video "How I am Earning MORE Passive Income with my Evergreen
+          Miner HDD Chia XCH Farmers!"
+      - date: 08/17/2023
+        handle: [Edward, 'https://twitter.com/anewformofmusic']
+        icons: [globe, spaces]
+        links:
+        - [Edward, 'https://twitter.com/anewformofmusic']
+        - [Play, 'https://twitter.com/anewformofmusic/status/1692174157914701841?s=20']
+        title: "- Hosted by\"\U0001F331 Weddings , Chat and The Great Wall Of Chia 6PM\
+          \ LA Time #ArtThursday\" on Thursday August 17, 2023."
+      - date: 08/17/2023
+        handle: [Chia Network, 'https://twitter.com/chia_project']
+        icons: [chia, microphone]
+        links:
+        - [Chia Network, 'https://twitter.com/chia_project']
+        - [Blog, 'https://www.chia.net/2023/08/17/forked-paths-decoding-blockchain-forks/']
+        title: 'posts new blog entry "Forked Paths: Decoding Blockchain Forks"'
+      - date: 08/16/2023
+        handle: ['@steppsr', 'https://twitter.com/steppsr']
+        icons: [globe, microphone]
+        links:
+        - ['@steppsr', 'https://twitter.com/steppsr']
+        - [XDTEES, 'https://xdtees.printify.me/products/1']
+        title: (me) released some new merch products on XDTEES.
+      - date: 08/16/2023
+        handle: [SynthAndy.xch, 'https://twitter.com/ProofOfSynthNFT']
+        icons: [globe, microphone]
+        links:
+        - [SynthAndy.xch, 'https://twitter.com/ProofOfSynthNFT']
+        - ['Why Chia?', 'https://www.chifidegens.xyz/chia']
+        title: posts new page to the ChiFi Degens site that is a fantastic intro into
+      - date: 08/16/2023
+        handle: ['@michaeltaylor3d', 'https://twitter.com/michaeltaylor3d']
+        icons: [globe, microphone]
+        links:
+        - ['@michaeltaylor3d', 'https://twitter.com/michaeltaylor3d']
+        - [Source, 'https://twitter.com/michaeltaylor3d/status/1691860850062094633?s=20']
+        - [chia-datalayer-mirror-tools, 'https://www.npmjs.com/package/chia-datalayer-mirror-tools']
+        title: "releases new development tool: DataLayer Mirror Tools! Collection of higher\
+          \ level abstractions that make creating/managing/deleting your datalayer mirrors\
+          \ a little bit easier.\u2022"
+      - date: 08/15/2023
+        handle: ['@SlowestTimelord', 'https://twitter.com/SlowestTimelord']
+        icons: [globe, microphone]
+        links:
+        - ['@SlowestTimelord', 'https://twitter.com/SlowestTimelord']
+        - [XCH.ninja, 'https://xch.ninja/']
+        title: 'teases new site: XCH.ninja! What will it be?'
+      - date: 08/15/2023
+        handle: [Chia Network, 'https://twitter.com/chia_project']
+        icons: [chia, microphone]
+        links:
+        - [Chia Network, 'https://twitter.com/chia_project']
+        - [Blog, 'https://www.chia.net/2023/08/15/what-is-blockchain-for-enterprise/']
+        title: "posts new blog entry \"What is Blockchain for \u201CEnterprise\u201D?\""
+      - date: 08/15/2023
+        handle: ['@SlowestTimelord', 'https://twitter.com/SlowestTimelord']
+        icons: [globe, microphone]
+        links:
+        - ['@SlowestTimelord', 'https://twitter.com/SlowestTimelord']
+        - [Developers Page, 'https://chialinks.com/developers/']
+        title: 'announces "ChiaLinks has a new Developers section! And sub-sections for
+          DataLayer and WalletConnect specific resources. #Chia"'
+      - date: 08/15/2023
+        handle: ['@MayorAbandoned', 'https://twitter.com/MayorAbandoned']
+        icons: [globe, microphone]
+        links:
+        - ['@MayorAbandoned', 'https://twitter.com/MayorAbandoned']
+        - [The Great Wall of Chia, 'https://thegreatwallofchia.com/']
+        title: announces "A NFT project built on the Chia Blockchain consisting of 30
+          rows and 14 columns of 64px X 64px images. NFT owners have the ability to change
+          the image on this page by proving their ownership."
+      - date: 08/14/2023
+        handle: ['@michaeltaylor3d', 'https://twitter.com/michaeltaylor3d']
+        icons: [globe, microphone]
+        links:
+        - ['@michaeltaylor3d', 'https://twitter.com/michaeltaylor3d']
+        - [chia-sprout-cli, 'https://www.npmjs.com/package/chia-sprout-cli']
+        - [Datalayer Storage, 'https://datalayer.storage/']
+        title: "announces \"Getting your NFT collection on #Chia DataLayer is now just\
+          \ 2 steps!\". 1) Use Sprout tool and deploy your entire collection on datalayer\
+          \ in just a few mins. 2) Sign up for a free account at Datalayer Storage and\
+          \ claim your free mirror.\u2022"
+      - date: 08/14/2023
+        handle: ['@DracattusDev', 'https://twitter.com/DracattusDev']
+        icons: [globe, spaces]
+        links:
+        - ['@DracattusDev', 'https://twitter.com/DracattusDev']
+        - [Play, 'https://twitter.com/DracattusDev/status/1691050275480457217?s=20']
+        title: "- Hosted by\"\U0001F331Chia - The World\u2019s Most Decent. & Secure Blockchain\
+          \ - #BTC v2\" on Sunday August 13, 2023 at 6:00 PM UTC."
+      - date: 08/13/2023
+        handle: ['@MrDennisV', 'https://twitter.com/MrDennisV']
+        icons: [globe, microphone]
+        links:
+        - ['@MrDennisV', 'https://twitter.com/MrDennisV']
+        - [chia-dl-file-store, 'https://www.npmjs.com/package/chia-dl-file-store']
+        title: releases npm "chia-dl-file-store" a Node.js package that provides functionality
+          for interacting with Chia blockchain's DataLayer to manage files.
+      - date: 08/13/2023
+        handle: [Digital Spaceport, 'https://twitter.com/gospaceport']
+        icons: [globe, youtube]
+        links:
+        - [Digital Spaceport, 'https://twitter.com/gospaceport']
+        - [Source, 'https://twitter.com/gospaceport/status/1690896128785653761?s=20']
+        - [Watch, 'https://www.youtube.com/watch?v=CNc4cWHJmdQ']
+        - [DSP Store, 'https://shop.digitalspaceport.com/?utm_medium=product_shelf&utm_source=youtube&utm_content=YT-AAE-QftT-60eFcUEB0enfDvQaiv4QLn6reepPZQpLv-hDUCxUMjEDq56nZPAHcRdgVVClyTfQnuFbwXniBSAnweP1D7gRCL5452GQY82M3Py5PgX-7PMuf2tvc4xHscJGT1x9Ve6nXYF_r5E5KxFOH_MyZcoODcYMWbrKgYLQnu0EuZi7OFPGM9b']
+        title: "\"Chia Bladebit 128GB RAM GPU Plot Testing! Hard Drive Mining and Farming\"\
+          \u2022\u2022"
+      - date: 08/13/2023
+        handle: ['@Quirky_Giraffes', 'https://twitter.com/Quirky_Giraffes']
+        icons: [globe, microphone]
+        links:
+        - ['@Quirky_Giraffes', 'https://twitter.com/Quirky_Giraffes']
+        - [2.0 Collection, 'https://mintgarden.io/collections/quirky-giraffes-2.0-col1hw37gqd64mfejpt26r4ga37qgnaudqt3c7javemphdc4qyntedssmxxmwr']
+        title: releases Quirky Giraffes 2.0 collection! Offers are already up so go grab
+          some for yourself!
+      - date: 08/13/2023
+        handle: ['@monkeyzoo', 'https://twitter.com/monkeyzoo']
+        icons: [globe, spaces]
+        links:
+        - ['@monkeyzoo', 'https://twitter.com/monkeyzoo']
+        - [Play, 'https://twitter.com/monkeyzoo/status/1690785389164797952?s=20']
+        title: "- Hosted by\"\U0001F331Chia Royalties Guaranteed\U0001F331 New L1 #NFTs\
+          \ are back \U0001F525\U0001F525\" on Sunday August 13, 2023 at 6:00 PM UTC."

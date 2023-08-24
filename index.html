@@ -47,7 +47,7 @@ layout: default
 	
 </div>
 
-{% for week in site.data.data.weeks %}
+{% for week in site.data.output.weeks %}
 	{% assign start_date = week.startdate | date: '%m/%d/%Y' %}
 	{% assign end_date = start_date | date: '%s' | plus: 604800 %}
 	{% assign long_start_date = start_date | date: '%B %d, %Y' %}
